@@ -3,5 +3,16 @@ body {
 }
 
 h2 {
-    color:blueviolet;
+    color: blueviolet;
+}
+
+h2 {
+    text-align: center;
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a:hover{
+    font-size: 60px;
 }
