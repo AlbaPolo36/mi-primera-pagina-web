@@ -4,17 +4,18 @@ body {
 
 h2 {
     color: blueviolet;
-}
-
-h2 {
     text-align: center;
-
-h2 {
     font-family: 'Times New Roman', Times, serif;
 }
 
 a:hover{
-    font-size: 60px;
+    background-color:cornflowerblue;
 }
 
-a:active{ }
+a:visited{
+    color:aquamarine
+}
+
+a:active{
+    color:red
+}
