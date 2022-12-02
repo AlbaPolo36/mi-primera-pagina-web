@@ -3,19 +3,25 @@ body {
 }
 
 h2 {
-    color: blueviolet;
+    color: rgb(150, 150, 230)
+}
+
+h2 {
     text-align: center;
-    font-family: 'Times New Roman', Times, serif;
 }
 
-a:hover{
-    background-color:cornflowerblue;
+h2 {
+    background-color: aquamarine;
 }
 
-a:visited{
-    color:aquamarine
+a:hover {
+    background-color: cornflowerblue;
 }
 
-a:active{
-    color:red
+a:visited {
+    color: aquamarine
+}
+
+a:active {
+    color: red
 }
